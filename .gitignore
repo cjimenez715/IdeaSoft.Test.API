@@ -1,0 +1,4 @@
+/.vs/**
+/src/Ideasoft.Test.Api/obj
+/src/Ideasoft.Test.Api/bin/Debug/netcoreapp3.1
+/src/Ideasoft.Test.Api/Ideasoft.Test.Api.csproj.user
